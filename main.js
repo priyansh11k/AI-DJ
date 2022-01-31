@@ -55,7 +55,7 @@ function draw(){
 image(video,0,0,600,500);
 
 fill("#FF0000");
-sroke("#FF0000");
+stroke("#FF0000");
 
 if(scoreLeftWrist > 0.2){
 
